@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desbravador" vcs="Git" />
+    <mapping directory="C:\Users\romul\eclipse-workspace\spring-boot-jsp-jpa\spring-boot-post-tutorial" vcs="Git" />
   </component>
 </project>
